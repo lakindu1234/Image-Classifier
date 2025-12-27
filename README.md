@@ -1,3 +1,3 @@
 # Image-Classifier
 
-Image classifier using Deep learning 
+Sample learning material in deep learning for Image-Classifier
